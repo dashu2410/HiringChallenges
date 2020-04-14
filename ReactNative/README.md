@@ -1,10 +1,10 @@
-## ReactJS challenge assignments for Wealth42
+## React Native challenge assignments for Wealth42
 
 ### Introduction
-The goal of this challenge is to test your familiarity with concepts in ReactJS.
+The goal of this challenge is to test your familiarity with concepts in React Native.
 To read more about the recruitment process and open opportunities at Wealth42, click [here](http://bit.ly/w42-hiring)
 
-You can select any one of the stories mentioned in the [stories](../stories/) folder, and develop a ReactJS webapp for it.
+You can select any one of the stories mentioned in the [stories](../stories/) folder, and develop a React Native webapp for it.
 
 
 ### Instructions
@@ -20,8 +20,8 @@ You can select any one of the stories mentioned in the [stories](../stories/) fo
 *   State Management: 
     *   Use redux for state management
     *   thunk/saga for middleware
-*   Routing: Use React-router
-*   Styling: SASS 
+*   Routing: Use React Navigation
+ 
 
 ### Assessment Criteria
 1. Maintainability and organisation of code 
@@ -32,7 +32,7 @@ You can select any one of the stories mentioned in the [stories](../stories/) fo
 3. Balancing between speed and quality of code - we understand that candidates can only spend limited time on these challenges.
 If you do make any trade-offs in favour of saving time, do mention them in comments.  
 4. Ownership - going beyond the exact job description to deliver a finished product.
-For a ReactJS dev, this could translate to: 
+For a React Native dev, this could translate to: 
     1. creating mocks from the API documentation
     2. adding icons/collateral 
 5. How much the candidate stays in touch with us during the process of the project

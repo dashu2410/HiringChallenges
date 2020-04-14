@@ -1,19 +1,23 @@
 ## Journalling for therapy
 
-The pandemic, COVID-19, requires people to practice social distancing. Many are quarantined at home or at temporary facilities. In the light of the new social dynamics, people experience feelings of isolation which potentially have an impact on mental health. Therapy, once taboo, is starting to be acceptable in society. However, there are a few problems therapists and clients face while engaging with their clients during this period of isolation –
+The pandemic, COVID-19, requires people to practice social distancing. Many are quarantined at home or at temporary facilities. In the light of the new social dynamics, people experience feelings of isolation which potentially have an impact on mental health. Therapy, once taboo, is starting to be acceptable in society. However, there are a few problems therapists and clients may face while engaging for therapy during this period of isolation –
 
 
 1. Clients may face several emotions between therapy sessions. These crucial data points are inaccessible, and available only from memory recall.
 2. Clients cannot seamlessly switch between therapists, or engage with more than one.
 3. Therapists maintain notes and mind maps based on their interactions with clients. With growing clientele, managing these becomes challenging.
 
-As a simple solution for the clients and the therapist, we need an app for clients to maintain their **emotions journal**, and for therapists to view journals (authorised by clients) along with making their own notes and managing their schedule.
+As a simple solution for the clients and the therapist, we need an app:
+* For clients to maintain their **emotions journal**
+* For therapists 
+    * To view journals (authorised by clients) 
+    * For making their own notes
 
 The app must cover these stories –
 
 *   A Client should be able to …
     *   Create a Client account and login using their email and password
-    *   Map a Therapist to an account.
+    *   Search and map a Therapist to their account.
     *   View list of therapists who have access to emotions journal along with these actions –
         *   Remove a therapist mapped to account
         *   Remove a therapist’s access to the journal, but not mapping to account

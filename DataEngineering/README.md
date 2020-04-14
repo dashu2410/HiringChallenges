@@ -1,4 +1,4 @@
-## ReactJS challenge assignments for Wealth42
+## Data Engineering challenge assignments for Wealth42
 
 ### Introduction
 The goal of this challenge is to test your familiarity with concepts in *Python and Data Engineering*.
@@ -6,9 +6,9 @@ To read more about the recruitment process and open opportunities at Wealth42, c
 
 ### User story
 Once the COVID-19 lock-down is lifted in many parts of the world, it would still be absolutely crucial to follow social distancing
-to avoid re-flaring the infection rates of the virus. We want to make a utility for users currently using public transport
-to be able to switch to using rental bike services instead (wherever it is possible). Specifically for the residents of London, we
-can utilize a feed provided by the Transport For London organisation. This is available [here](https://api-portal.tfl.gov.uk/docs).
+to avoid re-flaring the infection rates of the virus. Wherever possible, users who currently use public transport should
+be able to switch to alternate commute (like rental bikes). Specifically for the residents of London, you
+can utilize a feed provided by Transport For London, available [here](https://api-portal.tfl.gov.uk/docs).
 
 ### Instructions
 * Explore the [API documentation](https://api-portal.tfl.gov.uk/docs)
@@ -18,15 +18,15 @@ can utilize a feed provided by the Transport For London organisation. This is av
     * storing the bike availability across London across different time snapshots
 * Implement these DDLs and create table(s) in MySQL for the schemas.
 * Write script in Python to query this data source and update both databases accordingly
-* Write a cron script that runs this python script every 5 minutes
+* Schedule this script to run every 5 minutes
 * Include all of the DDL statements, python scripts and cron files in the repository
-*   Document list of assumptions made, which are not covered in the stories but have been used in building the app.
-*   Ask us anything – hiring at wealth42 dot com.
+* Document list of assumptions made, which are not covered in the stories but have been used in building the app.
+* Ask us anything – hiring at wealth42 dot com.
 
 
 ### Assessment Criteria
 1. Maintainability and organisation of code
-2. Normalisation of data in the schema design 
+2. Correctly choosing normalisation or denormalisation where applicable 
 3. Balancing between speed and quality of code - we understand that candidates can only spend limited time on these challenges.
 If you do make any trade-offs in favour of saving time, do mention them in comments.  
 4. Ownership - going beyond the exact job description to deliver a finished product.
@@ -34,9 +34,10 @@ For a Python/Data Engineer dev, this could potentially translate to:
     1. Ensuring safety of API keys (if any are used)
     2. Creating a query utility that lets a user query the number of free bikes currently available by giving a subset of the 'commonName' string
 5. How much the candidate stays in touch with us during the process of the project
-6. Homogeneity of commits - All commits should only be addressing one particular issue/feature, which is highlighted clearly in the commit message. This does not imply that all commits need to be small.
+6. [Guidelines](https://gist.github.com/turbo/efb8d57c145e00dc38907f9526b60f17) for clean commit messages
 
 ### Submission Process
 1. Clone this repository
 2. Remove the assignment README’s (and all folders) and start developing your project in it
-3. Raise a Pull Request
+3. Add a readme that details on exactly how to run the code
+4. Raise a Pull Request

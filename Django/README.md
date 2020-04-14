@@ -1,10 +1,10 @@
-## ReactJS challenge assignments for Wealth42
+## Django challenge assignments for Wealth42
 
 ### Introduction
 The goal of this challenge is to test your familiarity with concepts in Django.
 To read more about the recruitment process and open opportunities at Wealth42, click [here](http://bit.ly/w42-hiring)
 
-You can select any one of the stories mentioned in the [stories](../stories/) folder, and develop a ReactJS webapp for it.
+You can select any one of the stories mentioned in the [stories](../stories/) folder, and develop an API service using Django for it.
 
 
 ### Instructions
@@ -32,9 +32,10 @@ If you do make any trade-offs in favour of saving time, do mention them in comme
 For a Django dev, this could translate to: 
     1. Creating a sample API-driven UI that also communicates with this API
 4. How much the candidate stays in touch with us during the process of the project
-5. Homogeneity of commits - All commits should only be addressing one particular issue/feature, which is highlighted clearly in the commit message. This does not imply that all commits need to be small.
+6. [Guidelines](https://gist.github.com/turbo/efb8d57c145e00dc38907f9526b60f17) for clean commit messages
 
 ### Submission Process
 1. Clone this repository
 2. Remove the assignment README’s (and all folders) and start developing your project in it
-3. Raise a Pull Request
+3. Add a readme that details on exactly how to run the code
+4. Raise a Pull Request

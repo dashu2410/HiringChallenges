@@ -5,7 +5,7 @@ The pandemic, COVID-19, requires people to practice social distancing. Many are 
 Clients may face several emotions between therapy sessions. These crucial data points are inaccessible, and available only from memory recall.
 Therapists maintain notes and mind maps based on their interactions with clients.
 
-As a simple solution for the clients and the therapist, build a Django Application for clients to maintain their emotions journal, and for therapists to view journals (authorised by clients) along with making their own notes and managing their schedule.
+As a simple solution for the clients and the therapist, build a ReactJS Application for clients to maintain their emotions journal, and for therapists to view journals (authorised by clients) along with making their own notes and managing their schedule.
 
 ### User stories
 A Client should be able to …

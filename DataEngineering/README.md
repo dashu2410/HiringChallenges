@@ -8,10 +8,10 @@ To read more about the recruitment process and open opportunities at Wealth42, c
 Once the COVID-19 lock-down is lifted in many parts of the world, it would still be absolutely crucial to follow social distancing
 to avoid re-flaring the infection rates of the virus. We want to make a utility for users currently using public transport
 to be able to switch to using rental bike services instead (wherever it is possible). Specifically for the residents of London, we
-can utilize a feed provided by the transport for London organisation. This is available [here](https://api-portal.tfl.gov.uk/docs).
+can utilize a feed provided by the Transport For London organisation. This is available [here](https://api-portal.tfl.gov.uk/docs).
 
 ### Instructions
-* Explore the API documentation
+* Explore the [API documentation](https://api-portal.tfl.gov.uk/docs)
 * Use the bikepoint API to extract information on bike availability on various bike stands
 * Design DDLs for - 
     * storing the real-time bike availability data across London
@@ -26,7 +26,7 @@ can utilize a feed provided by the transport for London organisation. This is av
 
 ### Assessment Criteria
 1. Maintainability and organisation of code
-2. normalisation of information in the schema design 
+2. Normalisation of data in the schema design 
 3. Balancing between speed and quality of code - we understand that candidates can only spend limited time on these challenges.
 If you do make any trade-offs in favour of saving time, do mention them in comments.  
 4. Ownership - going beyond the exact job description to deliver a finished product.

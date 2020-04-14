@@ -2,11 +2,26 @@
 
 ### Introduction
 The goal of this challenge is to test your familiarity with concepts in ReactJS.
-The assessment criteria takes inspiration from [Amazon's leadership principles](https://www.amazon.jobs/en/principles)
-
 To read more about the recruitment process and open opportunities at Wealth42, click [here](http://bit.ly/w42-hiring)
 
-If you haven't received any communication from Wealth42 to complete a specific assessment, you are expected to do the project described in general_assessment.md  
+You can select any one of the stories mentioned in the [stories](../stories/) folder, and develop a ReactJS webapp for it.
+
+
+### Instructions
+
+*   API: 
+    *   Create stubs based on the user story selected
+    *   Mock those stubs (an easy way to do this is to use Postman)
+    *   Integrate with the mock stubs
+*   View: 
+    *   Design reusable components that are used across all the screens relevant
+    *   Include any collateral/stock images (make sure these are okay for public use)
+    *   Include icons/vector art wherever relevant
+*   State Management: 
+    *   Use redux for state management
+    *   thunk/saga for middleware
+*   Routing: Use React-router
+*   Styling: SASS 
 
 ### Assessment Criteria
 1. Maintainability and organisation of code 
@@ -26,5 +41,4 @@ For a ReactJS dev, this could translate to:
 ### Submission Process
 1. Clone this repository
 2. Remove the assignment README’s (and all folders) and start developing your project in it
-3. Raise a Pull Request 
-4. Fill up [this form](https://forms.gle/kqnihFdGFYuExGGY6)
+3. Raise a Pull Request
